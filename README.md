@@ -3,7 +3,7 @@ Owlto is a Cross-Rollup module developed based on the Ethereum L2 Rollup solutio
 
 ### Features
 - High security
-- Low cost
+- Low cost 
 - Fast speed
 - Friendly to Ethereum native assets
 
